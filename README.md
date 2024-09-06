@@ -14,6 +14,8 @@
 
 [Операционный](https://redash.lab.karpov.courses/public/dashboards/KlhHDQPnkhogV09y0thbGc2c9SYJupxDNsXcUKBo?org_slug=default)
 
+[Мониторинг удержания пользователей](https://public.tableau.com/views/Userretentionmonitoring/Userretentionmonitoring?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 Для удобства интерпретации детальное описание задач с описанием логики решения представлены в файлах jupyter notebook:
 
 * **AB-test** - оценка влияния нового алгоритма рекомендации постов в ленте новостей;
